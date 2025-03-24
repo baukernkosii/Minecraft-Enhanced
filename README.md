@@ -5,19 +5,33 @@ This mod adds new blocks, creatures, and mechanics to Minecraft, improving the g
 
 ## Repository structure
 Minecraft-Enhanced/
+
 ├── README.md
+
 ├── src/
+
 │ ├── main/
+
 │ │ ├── java/
+
 │ │ │ └── com/
+
 │ │ │ └── example/
+
 │ │ │ └── enhanced/
+
 │ │ │ ├── EnhancedMod.java
+
 │ │ └── resources/
+
 │ │ ├── assets/
+
 │ │ └── lang/
+
 │ └── test/
+
 ├── build.gradle
+
 └── LICENSE
 
 ## Installation
